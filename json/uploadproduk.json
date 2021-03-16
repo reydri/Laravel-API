@@ -1,0 +1,10 @@
+http://127.0.0.1:8000/api/uploadproduk
+{
+    "nama" : "gerry",
+    "toko" : "indomaret",
+    "harga" : "1000"
+}
+
+{
+   "Data Berhasil di Tambah"
+}

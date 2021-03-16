@@ -1,0 +1,11 @@
+http://127.0.0.1:8000/api/tambahkeranjang
+{
+    "nama" : "gerry",
+    "toko" : "indomaret",
+    "jumlah" : 5,
+    "harga" : "1000"
+}
+
+{
+   "Data Berhasil di Tambah"
+}

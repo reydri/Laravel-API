@@ -1,0 +1,9 @@
+http://127.0.0.1:8000/api/detailproduk/4
+{
+    "id": 4,
+    "nama": "gerry",
+    "toko": "indomaret",
+    "harga": 1000,
+    "created_at": "2021-03-16 14:38:36",
+    "updated_at": "2021-03-16 14:38:36"
+}
